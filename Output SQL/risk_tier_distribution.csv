@@ -1,0 +1,6 @@
+predicted_risk_tier,loan_count,pct_of_portfolio,avg_predicted_prob_pct,actual_default_rate_pct
+High,941,2.9,68.94,57.07
+Low,9747,30.08,27.94,10.02
+Moderate,2523,7.79,47.8,26.87
+Very High,4688,14.47,95.19,99.57
+Very Low,14500,44.75,11.36,1.57
