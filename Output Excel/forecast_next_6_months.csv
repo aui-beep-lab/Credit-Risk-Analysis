@@ -1,0 +1,7 @@
+forecast_month,forecast_loan_volume,forecast_volume_lower95,forecast_volume_upper95,forecast_default_rate_pct,forecast_default_rate_lower95,forecast_default_rate_upper95
+01/01/2026,1103,988,1219,21.97,19.8,24.15
+01/02/2026,1153,989,1316,22.04,18.96,25.12
+01/03/2026,1202,1002,1402,22.11,18.34,25.88
+01/04/2026,1252,1021,1482,22.18,17.83,26.53
+01/05/2026,1301,1043,1559,22.25,17.38,27.11
+01/06/2026,1351,1068,1633,22.32,16.98,27.65

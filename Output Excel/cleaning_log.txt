@@ -1,0 +1,10 @@
+CREDIT RISK DATASET - CLEANING LOG
+========================================
+Removed 0 duplicate rows
+Removed 0 rows with implausible age (<18 or >80)
+Removed 0 rows with implausible emp_length (>60 yrs)
+Removed 0 rows where emp_length exceeds plausible working years
+Removed 0 rows with income > $1,000,000 (extreme outliers)
+Imputed 0 missing person_emp_length values (median by age bracket)
+Imputed 0 missing loan_int_rate values (median by loan_grade)
+Final clean shape: (32399, 19)
